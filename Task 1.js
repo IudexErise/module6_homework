@@ -1,6 +1,6 @@
 // Task 6.1
 
-const arr = [0, 3, 8, 9, 12, 14, 5, 20, 0, 'dsaad', null];
+const arr = [0, 3, 8, 9, 12, 14, 5, 20, 0, 'dsaad', null, true, 5];
 let oddCounter = 0;
 let evenCounter = 0;
 let zeroCounter = 0;

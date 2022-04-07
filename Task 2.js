@@ -8,9 +8,9 @@ function checkPrimeNumber(a) {
   } else if (a === 3) {
     console.log('3 is prime number');
   } else if (a === 5) {
-    console.log('3 is prime number');
+    console.log('5 is prime number');
   } else if (a === 7) {
-    console.log('3 is prime number');
+    console.log('7 is prime number');
   } else if (a % 2 !== 0 && a % 3 !== 0 && a % 5 !== 0 && a % 7 !== 0) {
     console.log('The number is prime');
   } else {
